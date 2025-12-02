@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Shangri-La ～THE BEYOND～",
+  "base_artist": "angela",
+  "createdAt": "2025-12-02T01:34:25.173650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shangri‐La 〜THE BEYOND〜",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/01_Shangri‐La_〜THE_BEYOND〜_angela.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shangri-La ～THE BEYOND～",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/02_Shangri-La_~THE_BEYOND~_angela.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shangri-La ～THE BEYOND～",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/03_Shangri-La_~THE_BEYOND~_angela.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shangri-La ～THE BEYOND～",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/pl_01_Shangri-La_~THE_BEYOND~_angela.txt"
+    }
+  ]
+}
